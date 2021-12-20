@@ -1,0 +1,7 @@
+D:\DoAn_CTDL\cau1\bin\Debug\cau1.exe.config
+D:\DoAn_CTDL\cau1\bin\Debug\cau1.exe
+D:\DoAn_CTDL\cau1\bin\Debug\cau1.pdb
+D:\DoAn_CTDL\cau1\obj\Debug\cau1.csproj.AssemblyReference.cache
+D:\DoAn_CTDL\cau1\obj\Debug\cau1.csproj.CoreCompileInputs.cache
+D:\DoAn_CTDL\cau1\obj\Debug\cau1.exe
+D:\DoAn_CTDL\cau1\obj\Debug\cau1.pdb

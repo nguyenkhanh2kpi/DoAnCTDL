@@ -1,0 +1,301 @@
+map	
+danh từ	
+Bản đồ
+government	
+danh từ	
+Chính phủ
+way	
+danh từ	
+Đường
+art	
+danh từ	
+Nghệ thuật
+world	
+danh từ	
+Thế giới
+computer	
+danh từ	
+Máy tính
+people	
+danh từ	
+Người
+two	
+danh từ	
+Hai
+family	
+danh từ	
+Gia đình
+history	
+danh từ	
+Lịch sử
+health	
+danh từ	
+Sức khỏe
+system	
+danh từ	
+Hệ thống
+information	
+danh từ	
+Thông tin
+meat	
+danh từ	
+Thịt
+year	
+danh từ	
+Năm
+thanks	
+danh từ	
+Lời cảm ơn
+music	
+danh từ	
+Âm nhạc
+person	
+danh từ	
+Người
+reading	
+danh từ	
+Cách đọc
+method	
+danh từ	
+Phương pháp
+data	
+danh từ	
+Dữ liệu
+food	
+danh từ	
+Thức ăn
+understanding	
+danh từ	
+Hiểu biết
+theory	
+danh từ	
+Lý thuyết
+law	
+danh từ	
+Pháp luật
+bird	
+danh từ	
+Chim
+literature	
+danh từ	
+Văn chương
+problem	
+danh từ	
+Vấn đề
+software	
+danh từ	
+Phần mềm
+control	
+động từ	
+Điều khiển
+knowledge	
+danh từ	
+Kiến thức
+power	
+danh từ	
+Quyền lực
+ability	
+danh từ	
+Khả năng
+economics	
+danh từ	
+Kinh tế học
+love	
+danh từ	
+Tình Yêu
+internet	
+danh từ	
+Internet
+television	
+danh từ	
+Tivi
+science	
+danh từ	
+Khoa học
+library	
+danh từ	
+Thư viện
+nature	
+danh từ	
+Bản chất
+fact	
+danh từ	
+Việc
+product	
+danh từ	
+Sản phẩm
+idea	
+danh từ	
+Ý kiến
+temperature	
+danh từ	
+Nhiệt độ
+investment	
+danh từ	
+Đầu tư
+area	
+danh từ	
+Khu vực
+society	
+danh từ	
+Xã hội
+activity	
+danh từ	
+Hoạt động
+story	
+danh từ	
+Câu chuyện
+industry	
+danh từ	
+Ngành công nghiệp
+media	
+danh từ	
+Phương tiện truyền thông
+thing	
+danh từ	
+những vật
+oven	
+danh từ	
+Lò nướng
+community	
+danh từ	
+Cộng đồng
+definition	
+danh từ	
+Định nghĩa
+safety	
+danh từ	
+Sự an toàn
+quality	
+danh từ	
+Chất lượng
+development	
+danh từ	
+Phát triển
+language	
+danh từ	
+Ngôn ngữ
+management	
+danh từ	
+Quản lý
+player	
+danh từ	
+Người chơi
+variety	
+danh từ	
+Đa dạng
+video	
+danh từ	
+Video
+week	
+danh từ	
+Tuần
+security	
+danh từ	
+An ninh
+country	
+danh từ	
+Nước
+exam	
+danh từ	
+Thi
+movie	
+danh từ	
+Phim
+organization	
+danh từ	
+Cơ quan
+equipment	
+danh từ	
+Thiết bị
+physics	
+danh từ	
+Vật lý
+analysis	
+danh từ	
+Nghiên cứu
+policy	
+danh từ	
+Chính sách
+series	
+danh từ	
+Loạt
+thought	
+danh từ	
+Tư tưởng
+basis	
+danh từ	
+Căn cứ
+boyfriend	
+danh từ	
+Bạn trai
+direction	
+danh từ	
+Phương hướng
+strategy	
+danh từ	
+Chiến lược
+technology	
+danh từ	
+Công nghệ
+army	
+danh từ	
+Quân đội
+camera	
+danh từ	
+Máy chụp hình
+freedom	
+danh từ	
+Sự tự do
+paper	
+danh từ	
+Giấy
+environment	
+danh từ	
+Môi trường
+child	
+danh từ	
+Trẻ em
+instance	
+danh từ	
+Trường hợp
+month	
+danh từ	
+Tháng
+truth	
+danh từ	
+Sự thật
+marketing	
+danh từ	
+Thị trường
+university	
+danh từ	
+Trường đại học
+writing	
+danh từ	
+Hiện ra, sự viết
+article	
+danh từ	
+Điều khoản
+department	
+danh từ	
+Bộ
+difference	
+danh từ	
+Khác nhau
+goal	
+danh từ	
+Mục tiêu
+news	
+danh từ	
+Tin tức
+audience	
+danh từ	
+Khán giả
+fishing	
+danh từ	
+Câu cá
+growth	
+danh từ	
+Sự tăng trưởng
+
